@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Rae</h1>
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="10px">, I'm Rae</h1>
 
 <br>
 
